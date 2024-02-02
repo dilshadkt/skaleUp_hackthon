@@ -1,5 +1,10 @@
+import Login from "./pages/Login";
+
 function App() {
-  return <div className="text-red-500">kfh</div>;
+  return<>
+  <Login/>
+  </>;
+
 }
 
 export default App;
